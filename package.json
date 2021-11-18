@@ -33,7 +33,7 @@
     "grunt-postcss": "^0.8.0",
     "grunt-sass": "^2.0.0",
     "imagemin-mozjpeg": "^9.0.0",
-    "load-grunt-tasks": "^3.5.2",
+    "load-grunt-tasks": "^5.1.0",
     "pixrem": "^3.0.2",
     "time-grunt": "^2.0.0"
   }
