@@ -34,7 +34,7 @@
     "grunt-sass": "^3.1.0",
     "imagemin-mozjpeg": "^9.0.0",
     "load-grunt-tasks": "^5.1.0",
-    "pixrem": "^3.0.2",
+    "pixrem": "^5.0.0",
     "time-grunt": "^2.0.0"
   }
 }
