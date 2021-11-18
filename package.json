@@ -26,7 +26,7 @@
     "grunt-concurrent": "^3.0.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-cssmin": "^4.0.0",
-    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-imagemin": "^4.0.0",
     "grunt-contrib-uglify": "^5.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-pagespeed": "^2.0.1",
