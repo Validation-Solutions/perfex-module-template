@@ -25,5 +25,4 @@ jobs:
       - name: Auto Approve Dependabot
         uses: cognitedata/auto-approve-dependabot-action@v2.0.0
         with:
-          # The GITHUB_TOKEN secret
           github-token: ${{ secrets.GITHUB_TOKEN }}
