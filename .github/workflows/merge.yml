@@ -1,0 +1,15 @@
+name: Auto-merge minor/patch
+on:
+  pull_request:
+    branches: [master]
+jobs:
+  test:
+    name: Auto-merge minor and patch updates
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: koj-co/dependabot-pr-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          merge: true
+          approve: true
+          auto-label: true
