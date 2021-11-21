@@ -1,5 +1,5 @@
-# PerfexCRM-Module-Boilerplate
-A Module Boilerplate for PerfexCRM
+# PerfexCRM-Module-Template
+A Module Template Boilerplate for PerfexCRM
 
 ## References
 
@@ -28,7 +28,7 @@ npm i -g sassdoc
 npm i -g grunt-cli
 npm i -g bower
 
-git clone https://github.com/LunarDevelopment/PerfexCRM-Module-Boilerplate.git MYMODULENAME 
+git clone https://github.com/Validation-Solutions/perfex-module-template.git MYMODULENAME 
 
 cd MYMODULENAME 
 mv ./PerfexCRM-Module-Boilerplate.php ./MYMODULENAME.php 
