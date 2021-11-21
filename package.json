@@ -1,7 +1,7 @@
 {
-  "name": "PerfexCRM-Module-Boilerplate",
+  "name": "perfex-module-template",
   "version": "1.0.0",
-  "description": "A Module Boilerplate for PerfexCRM",
+  "description": "A Module Template Boilerplate for PerfexCRM",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -11,15 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LunarDevelopment/PerfexCRM-Module-Boilerplate.git"
+    "url": "git+https://github.com/Validation-Solutions/perfex-module-template.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Validation Solutions SAS",
+  "contributors": [
+    {
+      "name": "Alexander Daza",
+      "email": "dev.alexander.daza@gmail.com",
+      "url": "https://www.alexanderdaza.com"
+    }
+  ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LunarDevelopment/PerfexCRM-Module-Boilerplate/issues"
+    "url": "https://github.com/Validation-Solutions/perfex-module-template/issues"
   },
-  "homepage": "https://github.com/LunarDevelopment/PerfexCRM-Module-Boilerplate#readme",
+  "homepage": "https://github.com/Validation-Solutions/perfex-module-template#readme",
   "devDependencies": {
     "autoprefixer": "^9.8.8",
     "grunt": "^1.4.1",

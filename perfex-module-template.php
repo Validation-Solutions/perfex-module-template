@@ -12,7 +12,7 @@ Version: 2.3.0
 Requires at least: 2.3.*
 */
 
-define('PERFEXCRM_MODULE_BOILERPLATE_MODULE_NAME', 'PERFEXCRM_MODULE_BOILERPLATE');
+define('PERFEX_MODULE_TEMPLATE_MODULE_NAME', 'PERFEX_MODULE_TEMPLATE');
 
 /**
  * Register module activation hook
