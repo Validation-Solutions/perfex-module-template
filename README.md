@@ -1,4 +1,4 @@
-# PerfexCRM-Module-Template
+# PerfexCRM Module Template
 A Module Template Boilerplate for PerfexCRM
 
 ## References
@@ -8,6 +8,8 @@ A Module Template Boilerplate for PerfexCRM
 [Module Security](https://help.perfexcrm.com/module-security/)
 
 [Basics of Modules](https://help.perfexcrm.com/module-basics/)
+
+[Perfex FREE Modules](https://github.com/mallaagency/perfexcrm-free-modules)
 
 ## Need to know
 
@@ -28,11 +30,16 @@ npm i -g sassdoc
 npm i -g grunt-cli
 npm i -g bower
 
-git clone https://github.com/Validation-Solutions/perfex-module-template.git MYMODULENAME 
+# First go to your PerfexCRM root folder project
+cd /your/perfex-crm/project/folder
 
-cd MYMODULENAME 
-mv ./PerfexCRM-Module-Boilerplate.php ./MYMODULENAME.php 
-mv ./language/english/MYMODULE_lang.php ./language/english/REPLACETHISBIT_lang.php 
+# Now navigate to your modules folder and clone this template
+cd modules
+git clone https://github.com/Validation-Solutions/perfex-module-template.git your_module_name 
+
+cd your_module_name 
+mv ./perfex-module-template.php ./your_module_name.php 
+mv ./language/english/perfex-module-template_lang.php ./language/english/your_module_name_lang.php 
 
 npm install 
 bower install

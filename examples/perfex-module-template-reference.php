@@ -1,12 +1,4 @@
 <?php
-/**
- * Copyright (c) 2019.
- *
- */
-
-/*
- * Tap into Code Igniter and it's dependencies
- */
 
 $CI =& get_instance();
 
