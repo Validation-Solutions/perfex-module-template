@@ -34,7 +34,7 @@
     "grunt-contrib-concat": "^2.1.0",
     "grunt-contrib-cssmin": "^4.0.0",
     "grunt-contrib-imagemin": "^4.0.0",
-    "grunt-contrib-uglify": "^5.2.1",
+    "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-pagespeed": "^2.0.1",
     "grunt-postcss": "^0.9.0",
